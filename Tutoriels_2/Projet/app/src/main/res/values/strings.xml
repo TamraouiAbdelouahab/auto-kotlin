@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GalerieVille</string>
+    <string name="potier">potier</string>
+    <string name="potier_description">L\'artisan potier de Marrakech crée des céramiques uniques,façonnées à la main, décorées et cuites traditionnellement.</string>
+    <string name="souk">Souk</string>
+    <string name="souk_description">Des maîtres artisans de la ville présentent leur savoir-faire ancestral dans le domaine du travail du cuir, des tapis berbères et de la teinture naturelle, dans une exposition qui célèbre l\'héritage de Marrakech.</string>
+    <string name="horizon">Horizons Sahariens</string>
+    <string name="horizon_description">Un sculpteur travaille le métal et la pierre pour créer des œuvres abstraites inspirées par l\'immensité du désert saharien. Ses créations symbolisent la force et la solitude des vastes étendues de sable.</string>
+    <string name="suivant">suivant</string>
+    <string name="precedent">precedent</string>
+</resources>
