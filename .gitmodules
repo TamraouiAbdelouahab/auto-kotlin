@@ -1,6 +1,0 @@
-[submodule "Tutoriaux_2"]
-	path = Tutoriaux_2
-	url = https://github.com/TamraouiAbdelouahab/kotlin-andriod-fondamentaux.git
-[submodule "Tutoriaux_1"]
-	path = Tutoriaux_1
-	url = https://github.com/TamraouiAbdelouahab/Kotlin-first-app.git
